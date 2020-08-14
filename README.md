@@ -9,7 +9,7 @@
 
 [![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)]()
 [![Discord](https://img.shields.io/discord/622364852865990667?label=Discord&logo=discord&style=for-the-badge)](https://rmdash.fr/discord)
-[![Twitch](https://img.shields.io/twitch/status/billyjbryant?style=for-the-badge&logo=twitch)](https://billyjbryant.com/twitch)
+[![Twitch](https://img.shields.io/twitch/status/billyjbryant?style=for-the-badge&logo=twitch)](https://twitch.tv/BillyJBryant)
 [![GitHub Issues](https://img.shields.io/github/issues/billyjbryant/rmdashbot.svg?style=for-the-badge&logo=github)](https://github.com/billyjbryant/rmdashbot/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/billyjbryant/rmdashbot.svg?style=for-the-badge&logo=git)](https://github.com/billyjbryant/rmdashbot/pulls)
 [![License](https://img.shields.io/badge/license-GPLv3-blue.svg?style=for-the-badge)](/LICENSE)

@@ -1,0 +1,28 @@
+{
+  "name": "rmdashbot",
+  "version": "0.0.1",
+  "description": "Twitch and Discord Bot for RmDashFR Discord",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/billyjbryant/rmdashbot.git"
+  },
+  "author": "BillyJBryant <billy+rmdashfr@billyjbryant.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/billyjbryant/rmdashbot/issues"
+  },
+  "homepage": "https://gitlab.com/billyjbryant/rmdashbot#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.1.0",
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0",
+    "enmap": "^5.4.1",
+    "exports": "0.0.1",
+    "https": "^1.0.0",
+    "tmi.js": "^1.5.0"
+  }
+}

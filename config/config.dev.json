@@ -1,0 +1,9 @@
+{
+  "twitch": {
+    "channels": ["billyjbryant"]
+  },
+  "discord": {
+    "bot-admins": ["333352556761710602"],
+    "guilds": ["622364852865990667"]
+  }
+}

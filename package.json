@@ -7,7 +7,7 @@
     "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines": { "node": "^10.19.0" },
+  "engines": { "node": "10.19.0" },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/billyjbryant/rmdashbot.git"

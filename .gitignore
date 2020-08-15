@@ -34,6 +34,9 @@ bower_components
 # node-waf configuration
 .lock-wscript
 
+# No Package Lock
+package-lock.json
+
 # Compiled binary addons (https://nodejs.org/api/addons.html)
 build/Release
 
@@ -105,6 +108,4 @@ dist
 
 # VSCode
 .vscode/
-
-# No Package Lock
-package-lock.json
+*.code-workspace

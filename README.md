@@ -3,22 +3,35 @@
  <img width=200px height=200px src="https://i.imgur.com/FxL5qM0.jpg" alt="Bot logo"></a>
 </p>
 
-<h3 align="center">RmDashBot</h3>
+<h1 align="center">RmDashBot</h3>
 
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)]()
-[![Discord](https://img.shields.io/discord/622364852865990667?label=Discord&logo=discord&style=for-the-badge)](https://rmdash.fr/discord)
-[![Twitch](https://img.shields.io/twitch/status/billyjbryant?style=for-the-badge&logo=twitch)](https://twitch.tv/BillyJBryant)
+[![GitHub contributors](https://img.shields.io/github/contributors/billyjbryant/rmdashbot?style=for-the-badge)]()<br/>
+[![Language](https://img.shields.io/github/languages/top/billyjbryant/rmdashbot?style=for-the-badge)]()
+[![Libraries.io dependency status for GitHub repo](https://img.shields.io/librariesio/github/billyjbryant/rmdashbot?style=for-the-badge)]()
+[![TMI.JS](https://img.shields.io/github/package-json/dependency-version/billyjbryant/rmdashbot/tmi.js?color=%239146ff&style=for-the-badge)]()
+[![Discord.js](https://img.shields.io/github/package-json/dependency-version/billyjbryant/rmdashbot/discord.js?color=%237289da&style=for-the-badge)]()<br/>
 [![GitHub Issues](https://img.shields.io/github/issues/billyjbryant/rmdashbot.svg?style=for-the-badge&logo=github)](https://github.com/billyjbryant/rmdashbot/issues)
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/billyjbryant/rmdashbot.svg?style=for-the-badge&logo=git)](https://github.com/billyjbryant/rmdashbot/pulls)
-[![License](https://img.shields.io/badge/license-GPLv3-blue.svg?style=for-the-badge)](/LICENSE)
+[![GitHub repo size](https://img.shields.io/github/repo-size/billyjbryant/rmdashbot?style=for-the-badge)]()
+[![License](https://img.shields.io/github/license/billyjbryant/rmdashbot?style=for-the-badge)](/LICENSE)
 
 </div>
 
+<h3 align="center">Connect with Us</h3>
+
+<div align="center">
+
+[![Discord](https://img.shields.io/discord/622364852865990667?label=Discord&logo=discord&style=for-the-badge)](https://rmdash.fr/discord)
+[![Twitch](https://img.shields.io/twitch/status/billyjbryant?style=for-the-badge&logo=twitch)](https://twitch.tv/BillyJBryant)
+[![Twitter Follow](https://img.shields.io/twitter/follow/billyjbryant?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?user_id=30825508)
+
+</div>
 ---
 
-<p align="center"> 🤖 This is a Discord and Twitch Interactive Bot written in Node.JS
+<p align="center"> 🤖 This is an Interactive Chat Bot for Discord and Twitch written in Node.JS
     <br> 
 </p>
 

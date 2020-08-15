@@ -1,9 +1,26 @@
 {
-  "twitch": {
-    "channels": ["billyjbryant"]
+  "common": {
+    "donate": {
+      "coffee": "https://billyjbryant.com/coffee",
+      "patreon": "https://billyjbryant.com/patreon",
+      "paypal": "https://billyjbryant.com/paypal",
+      "tipjar": "https://billyjbryant.com/tipjar",
+      "venmo": "https://billyjbryant.com/venmo"
+    },
+    "social": {
+      "discord": "https://rmdash.fr/discord",
+      "facebook": "",
+      "instagram": "https://instagram.com/billyjbryant",
+      "twitch": "https://twitch.tv/billyjbryant",
+      "twitter": "https://twitter.com/billyjbryant",
+      "youtube": "https://billyjbryant.com/youtube"
+    }
   },
   "discord": {
     "bot-admins": ["333352556761710602"],
     "guilds": ["622364852865990667"]
+  },
+  "twitch": {
+    "channels": ["billyjbryant"]
   }
 }

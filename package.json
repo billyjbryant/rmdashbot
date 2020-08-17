@@ -7,7 +7,9 @@
     "start": "node bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines": { "node": "10.19.0" },
+  "engines": {
+    "node": "12.18.3"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/billyjbryant/rmdashbot.git"
@@ -20,9 +22,9 @@
   "homepage": "https://github.com/billyjbryant/rmdashbot#readme",
   "dependencies": {
     "better-sqlite3": "^7.1.0",
-    "discord.js": "^12.2.0",
+    "discord.js": "^12.3.1",
     "dotenv": "^8.2.0",
-    "enmap": "^5.4.1",
+    "enmap": "^5.6.1",
     "exports": "0.0.1",
     "https": "^1.0.0",
     "tmi.js": "^1.5.0"

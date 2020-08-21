@@ -18,9 +18,11 @@
   },
   "discord": {
     "bot-admins": ["333352556761710602"],
-    "guilds": ["622364852865990667"]
+    "guilds": ["622364852865990667"],
+    "cross-chat": ["735792690435719168"]
   },
   "twitch": {
-    "channels": ["billyjbryant"]
+    "channels": ["billyjbryant"],
+    "bots": ["StreamElements","rmdashbot","PretzelRocks"]
   }
 }

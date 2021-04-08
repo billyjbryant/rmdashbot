@@ -1,0 +1,13 @@
+[
+  {
+    "id": 0,
+    "arr": "string",
+    "dep": "string",
+    "tod": "string",
+    "user": "string",
+    "timestamp": "",
+    "skipped": false,
+    "played": false,
+    "deleted": false
+  }
+]

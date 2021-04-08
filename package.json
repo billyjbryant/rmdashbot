@@ -5,10 +5,11 @@
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js",
+    "debug": "node --inspect bot.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "engines": {
-    "node": "12.18.3"
+    "node": "15"
   },
   "repository": {
     "type": "git",
@@ -22,13 +23,18 @@
   "homepage": "https://github.com/billyjbryant/rmdashbot#readme",
   "dependencies": {
     "aws-sdk": "^2.746.0",
+    "axios": "^0.21.1",
     "better-sqlite3": "^7.1.0",
+    "date": "^1.0.2",
     "discord.js": "^12.3.1",
     "dotenv": "^8.2.0",
     "enmap": "^5.6.1",
     "exports": "0.0.1",
+    "express": "^4.17.1",
+    "http": "0.0.1-security",
     "https": "^1.0.0",
     "say": "^0.16.0",
+    "socket.io": "^3.0.5",
     "speaker": "^0.5.2",
     "stream": "0.0.2",
     "tmi.js": "^1.5.0"

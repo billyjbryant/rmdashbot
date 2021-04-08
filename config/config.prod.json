@@ -24,5 +24,11 @@
   "twitch": {
     "channels": ["billyjbryant"],
     "bots": ["StreamElements","rmdashbot","PretzelRocks"]
+  },
+  "giphy": {
+    "hostname": "api.giphy.com",
+    "endpoint": "/v1/gifs/search",
+    "rating": "pg-13",
+    "lang": "en"
   }
 }

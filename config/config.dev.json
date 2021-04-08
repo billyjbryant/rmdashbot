@@ -24,5 +24,22 @@
   "twitch": {
     "channels": ["billyjbryant"],
     "bots": ["StreamElements","rmdashbot","PretzelRocks"]
+  },
+  "giphy": {
+    "hostname": "api.giphy.com",
+    "endpoint": "/v1/gifs/search",
+    "rating": "pg-13",
+    "language": "en"
+  },
+  "gyfcat": {
+    "hostname": "api.gfycat.com",
+    "endpoint": "/v1/gifs/search",
+    "rating": "pg-13",
+    "language": "en"
+  },
+  "stream_overlay": {
+    "port": "8080",
+    "hostname": "0.0.0.0",
+    "endpoint": "/"
   }
 }

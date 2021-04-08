@@ -16,6 +16,7 @@ console.log(`Environment [${process.env.NODE_ENV}] Loaded`);
  */
 const discord = require("./lib/discord");
 const twitch = require("./lib/twitch");
+//const overlay = require("./lib/overlay");
 
 /**
  * Start the Twitch Bot
